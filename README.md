@@ -1,6 +1,6 @@
 # Calculator using Tkinter
 
-This project is a simple, user-friendly calculator built with Python's Tkinter library. It features a graphical user interface (GUI) that allows for basic arithmetic operations such as addition, subtraction, multiplication,division and power.
+This project is a simple, user-friendly calculator built with Python's `tkinter` library. It features a graphical user interface (GUI) that allows for basic arithmetic operations such as addition, subtraction, multiplication,division and power.
 
 ## Features:
 - Clean and responsive interface
@@ -10,4 +10,8 @@ This project is a simple, user-friendly calculator built with Python's Tkinter l
 
 ## Requirements:
 - Python 3.x
-- Tkinter (usually pre-installed with Python).
+- `tkinter` (usually pre-installed with Python).
+
+## How to Run:
+- Clone the repository
+- Run the game with `python calculator_tkinter.py`
